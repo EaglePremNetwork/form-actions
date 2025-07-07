@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Snapshots
+form-actions-1.jpg
+form-actions-2.jpg
